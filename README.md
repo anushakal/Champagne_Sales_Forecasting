@@ -2,7 +2,10 @@
 This repository contains the Jupyter Notebook used to forecast monthly champagne sales using ARIMA and SARIMA models. The notebook walks through key steps in time series analysis, including data cleaning, stationarity tests, and fitting different forecasting models.
 
 # Dataset
-The dataset used is monthly sales data from Perrin Freres, covering a period from January 1964 to September 1972. The sales data consists of champagne sales (in millions) over this timeframe.
+The dataset used is monthly sales data from Perrin Freres, covering a period from January 1964 to September 1972. 
+
+The sales data consists of champagne sales (in millions) over this timeframe.
+
 (https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fanupamshah%2Fperrin-freres-monthly-champagne-sales%2Fdata)
 
 # Features
