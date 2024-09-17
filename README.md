@@ -45,6 +45,8 @@ Future dates were generated, and predictions were extended for the next 24 month
 
 
 # Results
-The final SARIMA model provides better forecasts, considering seasonality in the dataset.
+- ARIMA (1, 1, 0) Model: Achieved a Mean Absolute Error (MAE) of 1886.40, with a Log Likelihood of -966.44 and AIC of 1936.88.
+
+- SARIMA (1, 1, 1)x(1, 1, 1, 12) Model: Achieved a significantly lower MAE of 397.78, improving forecasting accuracy, with a Log Likelihood of -738.40 and AIC of 1486.80.
 
 
